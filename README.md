@@ -18,4 +18,5 @@ The project is about minting Degen Tokens as well as to use those tokens to rede
 
 ## Authors
 Contributors names and contact info
+
 [Van Kyori Calisin](https://www.facebook.com/kyoshiro.v)
